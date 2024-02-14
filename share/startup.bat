@@ -1,0 +1,1 @@
+powershell.exe -windowstyle hidden -file watcher.ps1
